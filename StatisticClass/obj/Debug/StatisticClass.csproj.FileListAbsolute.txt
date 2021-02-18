@@ -1,0 +1,10 @@
+E:\Temp\StatisticClass\bin\Debug\Example12.exe.config
+E:\Temp\StatisticClass\bin\Debug\Example12.exe
+E:\Temp\StatisticClass\bin\Debug\Example12.pdb
+E:\Temp\StatisticClass\obj\Debug\StatisticClass.csprojAssemblyReference.cache
+E:\Temp\StatisticClass\obj\Debug\Example12.FormMain.resources
+E:\Temp\StatisticClass\obj\Debug\Example12.Properties.Resources.resources
+E:\Temp\StatisticClass\obj\Debug\StatisticClass.csproj.GenerateResource.cache
+E:\Temp\StatisticClass\obj\Debug\StatisticClass.csproj.CoreCompileInputs.cache
+E:\Temp\StatisticClass\obj\Debug\Example12.exe
+E:\Temp\StatisticClass\obj\Debug\Example12.pdb
